@@ -1,0 +1,9 @@
+Group	Genes	Function
+Ribosomal Proteins (Protein Synthesis and Ribosome Assembly)	"rps28, rps25, rps23, rps21, rps19, rps15, rps14, rps13, rps12, rps11, rps10, rpl10a, rpl35, rpl30, rpl13a, rpl32, rpl8, rpl7, rpl6, rpl4, rpl5b, rpl27, rpl28, rpl14, rpl19"	"encode structural components of the ribosome, essential for mRNA translation and ribosome biogenesis"
+Translation Factors (Protein Translation and Elongation)	"eif2s3, eif3g, eif3i, eif3k, eif3m, eif3ea, eif5a, eef1g"	"initiation and elongation phases of protein synthesis, ensuring proper assembly and function of the ribosome during translation"
+RNA Processing and Splicing Factors	"ddx21, eif3ha, ybx1, nop53, btf3, foxd1"	"RNA splicing, processing, and the regulation of RNA stability and translation"
+Cell Cycle Regulation and Development	"txnipa, caprin1b, zfp36l1a, sav1"	"regulate cell proliferation, differentiaton, and developmental processes such as erythropoiesis and thymus development"
+Proteasome and Protein Degradation	"psma1, psmb6, abce1"	"Encode components of the porteasome complex, critical for protein degradation and turnover"
+Metabolism and Mitochondrial Function	"atp5l, ak2, llph"	"Energy production, mitochondrial function, and cellular metabolism"
+Hematopoiesis and Immune Regulation	"c1qbp, pa2g4b, grepl1, sptb"	"Roles in hematopoietic processes, immune cell differntiation, and stress responses"
+Structural and Regulatory Proteins	"rack1, pno1, cct3, cct6a"	"Structural sccaffolding, signal transduction, and chaperone-mediated protein folding"
